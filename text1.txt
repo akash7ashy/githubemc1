@@ -1,1 +1,2 @@
 create a file text1.txt
+thsi is used to create a file 
